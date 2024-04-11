@@ -9,7 +9,7 @@ if y == "3":
     print(file.readline())
     print(file.readline())
     print(file.readline())
-file.close()
+file.close() 
 
 
 z = input('Enter a number 1-3 :')
